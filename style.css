@@ -1,0 +1,48 @@
+*{
+    font-family: 'Mulish', sans-serif;
+  
+}
+.container-lista{
+    
+    width: 50%;
+    background-color: rgba(248,148,0, 0.8);
+    border-radius: 1em;
+    margin: 0 auto;
+ 
+
+    
+}
+.lista-compras{
+   text-align: center;
+  padding-bottom: 2em;
+  padding-top: 0.8em;
+ 
+}
+
+.lista-compras input{
+   
+    width: 30%;
+}
+
+label{
+    font-weight: bold;
+}
+ul li{
+    list-style: n;
+}
+
+
+body{
+    background-image: url(/img/bg-list.jpg);
+    background-position: fixed;
+    background-size: cover;
+  
+}
+
+ul{
+    padding-bottom: 1em;
+}
+
+button{
+    cursor: pointer;
+}
